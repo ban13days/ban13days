@@ -1,5 +1,6 @@
 ## Hello there 👋
-<img width="428" height="428" alt="BG2" src="https://github.com/user-attachments/assets/75871478-ca97-4c72-825b-dff8b71e81e9" />
+<img width="2048" height="234" alt="LIMS" src="https://github.com/user-attachments/assets/8532b14e-f3a9-4328-9024-60a70da9b7a0" />
+
 
 
 최시우
