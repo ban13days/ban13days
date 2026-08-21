@@ -1,4 +1,6 @@
 ## Hello there 👋
+<img width="428" height="428" alt="BG2" src="https://github.com/user-attachments/assets/75871478-ca97-4c72-825b-dff8b71e81e9" />
+
 
 최시우
 
@@ -8,7 +10,7 @@ Research Intern
 Research Interests
 - Digital Health
 - Medical AI
-- Medical Imaging
+  
 
 Publications
 - 제목 (KCI, First Author)
