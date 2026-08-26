@@ -13,72 +13,136 @@ Research Interests
 - Medical AI
   
 
-Publications
-- 제목 (KCI, First Author)
-- 제목 (KCI, First Author)
+# Siwoo Choi
 
-Awards
-- ...
-- ...
+**Medical AI Researcher | Medical Imaging | Deep Learning**
 
-Links
-- Google Scholar
-- ORCID
+Medical IT Engineering student at **Konyang University**, interested in
+**Medical AI, Medical Image Generation, Medical Image Forgery Detection, and Deep Learning for Medical Imaging**.
 
-# 최시우
-
-## Hello there 👋
-> General Ke...
-
-Research Intern @ Chungnam National University College of Medicine
+Currently working on deep learning-based medical image analysis and generation, with a focus on brain tumor MRI and endoscopy images.
 
 ---
 
-## Publications
+## About Me
 
-- KCI 1저자 ...
-- KCI 1저자 ...
-- KCI 2저자 ...
-
----
-
-## Research Projects
-
-### 🧠 Pix2Pix Contrast Enhancement
-!pix2pix
-
-- GAN 기반 조영증강 효과 생성
-- Role: First Author
-
-### 📱 Healthcare App
-images/app.png
-
-- Flutter 기반 개발
-- ...
-
-### 📊 Medical Data Analysis
-images/analysis.png
-
-- Digital Health Research
+- B.S. in Medical IT Engineering, **Konyang University** — Expected Feb 2027
+- GPA: **4.37 / 4.50** | Major GPA: **4.50 / 4.50**
+- **1st in class for 4 semesters**
+- Research interests:
+  - Medical Artificial Intelligence
+  - Medical Image Generation
+  - Medical Image Forgery Detection
+  - Deep Learning for Medical Imaging
 
 ---
 
-## Activities
+## Research
 
-### Academic Conference
-images/poster.jpg
+### Publications & Research
 
-### Research Lab
-images/lab.jpg
+- **First Author** — *Performance Analysis of a Lightweight Model with Top-k MIL for Diffusion Endoscopy Image Manipulation Detection*
+  - Poster Presentation, Korean Society of Medical and Biological Engineering
+
+- **Co-Author** — *Optimization of Manipulation Detection in Colonoscopy Image Generation Using StyleGAN2-ADA*
+  - Journal of the Korea Multimedia Society (KCI)
+
+- **First Author** — *Efficient Brain Tumor MRI Manipulation Detection Using a ShuffleNetV2-Based 3-Block Combination Model*
+  - Journal of the Korea Multimedia Society (KCI)
+
+- **Ongoing Research, First Author** — *Brain Tumor MRI Contrast Synthesis from Pre-Contrast Images Using a U-Net-based pix2pix Model*
+  - KCI journal paper in preparation
 
 ---
 
-## Awards & Honors
+## Projects
 
-- ○○ 우수논문상
-- 성적우수장학금
+### Brain Tumor MRI Contrast Synthesis
+U-Net + pix2pix-based two-stage framework for generating contrast-enhanced MRI from pre-contrast MRI.
+
+**Focus:** Tumor segmentation · Image-to-image translation · Medical image generation
+
+### Medical Image Manipulation Detection
+Deep learning-based detection of manipulated medical images, including brain MRI and endoscopy images.
+
+**Models:** ShuffleNetV2 · StyleGAN2-ADA · Top-k MIL · Deep Learning
+
+### Urine Bag Monitoring & Alert System
+Load-cell-based urine bag monitoring system with a C# monitoring interface.
+
+### Personalized SOS Emergency Alert Application
+Android application supporting patient-specific emergency calling protocols.
+
+### Medication Reminder Application
+Prescription-based medication scheduling, alarm generation, and drug interaction warnings.
 
 ---
+
+## Awards
+
+- **Excellence Award** — University Design Competition
+  - Urine Bag Alarm Monitoring System
+- **Excellence Award** — University Design Competition
+  - Personalized Emergency Alert Application System
+- **Creativity Award** — Capstone Design Competition
+- **Innovation Award** — Research Club Performance Conference
+- **Encouragement Award** — DACON KHD Competition
+
+---
+
+## Scholarships & Honors
+
+- **National Science and Engineering Scholarship**
+  - Korea Student Aid Foundation
+  - Full Tuition
+- **Academic Excellence Scholarship**
+  - Konyang University
+  - Full Tuition
+- Ranked **1st in class for 4 semesters**
+
+---
+
+## Skills
+
+### Programming
+`Python` `C` `C++` `C#` `Java`
+
+### AI / Machine Learning
+`PyTorch` `Deep Learning` `GAN` `U-Net` `Medical Imaging`
+`Image-to-Image Translation` `Computer Vision`
+
+### Research
+`Medical Image Generation`
+`Medical Image Forgery Detection`
+`Brain Tumor MRI`
+`Endoscopy Image Analysis`
+
+---
+
+## Certifications
+
+- Microsoft Azure AI Fundamentals (AI-900)
+- Big Data Analysis Certificate Level 1
+
+---
+
+## Training & Activities
+
+- Clinical Data Software Training Program
+- Development of Medical Data-based RAG Chatbot Training Course
+- Participant, DACON LLM Competition
+
+---
+
+## English
+
+**TOEIC 800**
+
+---
+
+## Contact
+
+📧 21615045@konyang.ac.kr
 
 ## Links
 
