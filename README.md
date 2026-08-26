@@ -3,18 +3,17 @@
 
 
 
-최시우
 
-Research Intern
-충남대학교 의과대학 의학연구원
-
-Research Interests
-- Digital Health
-- Medical AI
   
 
 # Siwoo Choi
 
+충남대학교 의과대학 의학연구원
+Research Intern
+
+Research Interests
+- Digital Health
+- Medical AI
 **Medical AI Researcher | Medical Imaging | Deep Learning**
 
 Medical IT Engineering student at **Konyang University**, interested in
