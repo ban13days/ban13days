@@ -108,8 +108,8 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 `Python` `C` `C++` `C#` `Java`
 
 ### AI / Machine Learning
-`PyTorch` `Deep Learning` `GAN` `U-Net` `Medical Imaging`
-`Image-to-Image Translation` `Computer Vision`
+ `Deep Learning` `GAN` `U-Net` `Medical Imaging`
+`Image-to-Image Translation` 
 
 ### Research
 `Medical Image Generation`
