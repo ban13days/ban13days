@@ -94,7 +94,8 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f4a778a2-4442-473e-81b8-53016f8ea6da" />
-<img width="362" height=509" alt="image" src="https://github.com/user-attachments/assets/4b3daa98-91bf-4f7d-b910-ec8ecceacd09" />
+<img width="285" height="400" alt="그림1" src="https://github.com/user-attachments/assets/631f1d04-598a-48dc-a4a6-b7508026267f" />
+
 
 
 - **Encouragement Award** — DACON KHD Competition
