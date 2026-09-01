@@ -63,11 +63,17 @@ Deep learning-based detection of manipulated medical images, including brain MRI
 
 **Models:** ShuffleNetV2 · StyleGAN2-ADA · Top-k MIL · Deep Learning
 
+<br>
+
 ### Urine Bag Monitoring & Alert System
 Load-cell-based urine bag monitoring system with a C# monitoring interface.
 
+<br>
+
 ### Personalized SOS Emergency Alert Application
 Android application supporting patient-specific emergency calling protocols.
+
+<br>
 
 ### Medication Reminder Application
 Prescription-based medication scheduling, alarm generation, and drug interaction warnings.
@@ -78,19 +84,28 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 
 - **Excellence Award** — University Design Competition
   - Urine Bag Alarm Monitoring System
+
+<br>
+
 - **Excellence Award** — University Design Competition
   - Personalized Emergency Alert Application System
+
+<br>
+
 - **Creativity Award** — Capstone Design Competition
+
+<br>
 
 <img width="600" height="333" alt="image" src="https://github.com/user-attachments/assets/55886d7c-cf2c-4547-8212-663212cf65b1" />
 
-- **Innovation Award** — Research Club Performance Conference<br>
+- **Innovation Award** — Research Club Performance Conference
+
+<br>
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f4a778a2-4442-473e-81b8-53016f8ea6da" />
 <img width="285" height="400" alt="그림1" src="https://github.com/user-attachments/assets/631f1d04-598a-48dc-a4a6-b7508026267f" />
 
 - **Encouragement Award** — DACON KHD Competition
-
 
 ---
 
@@ -99,10 +114,12 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 - **National Science and Engineering Scholarship**
   - Korea Student Aid Foundation
   - Full Tuition
+
+<br>
+
 - **Academic Excellence Scholarship**
   - Konyang University
   - Full Tuition
-- Ranked **1st in class for 4 semesters**
 
 ---
 
@@ -133,11 +150,15 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 
 <img width="600" height="287" alt="image" src="https://github.com/user-attachments/assets/6168519f-9d00-4e1d-86ce-cd9f784d054f" />
 
-- CNUH-SNUH Medical AI Conference<br>
+- CNUH-SNUH Medical AI Conference
+
+<br>
 
 <img width="600" height="267" alt="image" src="https://github.com/user-attachments/assets/9dabfd15-d269-48e0-b8f0-180e16a07ec3" />
 
-- Development of Medical Data-based RAG Chatbot Training Course<br>
+- Development of Medical Data-based RAG Chatbot Training Course
+
+<br>
 
 - Clinical Data Software Training Program
 - Participant, DACON LLM Competition — Human vs. AI-Generated Text Classification (Top 31%, Final Accuracy: 0.866)
