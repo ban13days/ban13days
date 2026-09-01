@@ -85,7 +85,7 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
   - Personalized Emergency Alert Application System
 - **Creativity Award** — Capstone Design Competition
 
-<img width="720" height="405" alt="image" src="https://github.com/user-attachments/assets/55886d7c-cf2c-4547-8212-663212cf65b1" />
+<img width="600" height="333" alt="image" src="https://github.com/user-attachments/assets/55886d7c-cf2c-4547-8212-663212cf65b1" />
 
 - **Innovation Award** — Research Club Performance Conference
 
