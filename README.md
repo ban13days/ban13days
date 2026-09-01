@@ -54,7 +54,7 @@ Currently working on deep learning-based medical image analysis and generation, 
 ### Brain Tumor MRI Contrast Synthesis
 U-Net + pix2pix-based two-stage framework for generating contrast-enhanced MRI from pre-contrast MRI.
 
-**Focus:** Tumor segmentation · Image-to-image translation · Medical image generation
+**Focus:** Tumor segmentation · Image-to-image translation · Medical image generation<br>
 
 ### Medical Image Manipulation Detection
 Deep learning-based detection of manipulated medical images, including brain MRI and endoscopy images.
