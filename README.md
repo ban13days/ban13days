@@ -127,12 +127,15 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 
 ## Training & Activities
 <img width="600" height="287" alt="image" src="https://github.com/user-attachments/assets/6168519f-9d00-4e1d-86ce-cd9f784d054f" />
+
 - CNUH-SNUH Medical AI Conference
   
 - Clinical Data Software Training Program
 
 <img width="600" height="267" alt="image" src="https://github.com/user-attachments/assets/9dabfd15-d269-48e0-b8f0-180e16a07ec3" />
+
 - Development of Medical Data-based RAG Chatbot Training Course
+
 - Participant, DACON LLM Competition
 
 ---
