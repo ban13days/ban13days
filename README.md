@@ -13,7 +13,7 @@ Research Interests
 **Medical AI Researcher | Medical Imaging | Deep Learning**
 
 Medical IT Engineering student at **Konyang University**, interested in
-**Medical AI, Medical Image Generation, Medical Image Forgery Detection, and Deep Learning for Medical Imaging**.
+**Medical AI, Medical Image Generation, Deep Learning for Medical Imaging**.
 
 Currently working on deep learning-based medical image analysis and generation, with a focus on brain tumor MRI and endoscopy images.
 
