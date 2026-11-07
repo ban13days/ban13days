@@ -12,9 +12,9 @@ Currently working on the following research projects:
 
 – Exploring diffusion-based language modeling approaches that incorporate clinical context and medical knowledge to improve contextual consistency.
 
--sEMG-Based Silent Speech Interface – Developing a speech generation system using surface electromyography (sEMG) signals to support communication for patients with impaired speech.
+- sEMG-Based Silent Speech Interface – Developing a speech generation system using surface electromyography (sEMG) signals to support communication for patients with impaired speech.
 
--Hemodynamic Parameter Prediction in ECMO Patients – Investigating AI-based prediction of hemodynamic parameters to support monitoring and clinical decision-making in patients receiving extracorporeal membrane oxygenation (ECMO).
+- Hemodynamic Parameter Prediction in ECMO Patients – Investigating AI-based prediction of hemodynamic parameters to support monitoring and clinical decision-making in patients receiving extracorporeal membrane oxygenation (ECMO).
 
 ---
 
