@@ -3,7 +3,7 @@
 
 # Siwoo Choi
 
-Chungnam National University College of Medicine, Medical Research Institute
+Chungnam National University College of Medicine, Biomedical Engineering Research Institute
 Research Intern
 
 Medical IT Engineering student at Konyang University, Aiming to develop AI models that can be applied in real-world clinical settings to support clinical decision-making and provide probabilistic insights for patient treatment planning.
