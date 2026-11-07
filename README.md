@@ -10,7 +10,7 @@ Medical IT Engineering student at Konyang University, Aiming to develop AI model
 
 Currently working on the following research projects:
 
-– Exploring diffusion-based language modeling approaches that incorporate clinical context and medical knowledge to improve contextual consistency.
+- Exploring diffusion-based language modeling approaches that incorporate clinical context and medical knowledge to improve contextual consistency.
 
 - sEMG-Based Silent Speech Interface – Developing a speech generation system using surface electromyography (sEMG) signals to support communication for patients with impaired speech.
 
