@@ -23,11 +23,11 @@ Currently working on deep learning-based medical image analysis and generation, 
 
 - B.S. in Medical IT Engineering, **Konyang University** — Expected Feb 2027
 - GPA: **4.38 / 4.50** | Major GPA: **4.50 / 4.50**
-- **1st in class for 4 semesters**
+- **1st in class**
 - Research interests:
   - Medical Artificial Intelligence
-  - Medical Image Generation
-  - Medical Image Forgery Detection
+  - Diffusion Language Model
+  - Myocardial Infarction Prediction
 
 ---
 
