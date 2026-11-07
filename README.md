@@ -4,18 +4,14 @@
 # Siwoo Choi
 
 Chungnam National University College of Medicine, Medical Research Institute
-
 Research Intern
 
-Research Interests
-- Digital Health
-- Medical AI
-**Medical AI Researcher | Medical Imaging | Deep Learning**
+Medical IT Engineering student at Konyang University, interested in applying advanced AI techniques to healthcare and clinical research.
 
-Medical IT Engineering student at **Konyang University**, interested in
-**Medical AI, Medical Image Generation, Deep Learning for Medical Imaging**.
-
-Currently working on deep learning-based medical image analysis and generation, with a focus on brain tumor MRI and endoscopy images.
+Currently working on the following research projects:
+-Clinically Context-Aware Diffusion Language Models – Exploring diffusion-based language modeling approaches that incorporate clinical context and medical knowledge to improve contextual consistency.
+-sEMG-Based Silent Speech Interface – Developing a speech generation system using surface electromyography (sEMG) signals to support communication for patients with impaired speech.
+-Hemodynamic Parameter Prediction in ECMO Patients – Investigating AI-based prediction of hemodynamic parameters to support monitoring and clinical decision-making in patients receiving extracorporeal membrane oxygenation (ECMO).
 
 ---
 
