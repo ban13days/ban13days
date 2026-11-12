@@ -6,9 +6,12 @@
 M.S. Student in Biomedical Engineering (March 2027)
 Chungnam National University College of Medicine, Biomedical Engineering Research Institute
 
-Completed a six-month research internship at Chungnam National University College of Medicine. Previously studied Medical IT Engineering at Konyang University and will begin a master's program in Biomedical Engineering at Chungnam National University in March 2027.
-
 Interested in developing clinically applicable AI systems that support clinical decision-making and provide reliable insights for patient care.
+
+### Education & Research Experience
+- **B.S. in Medical IT Engineering**, Konyang University
+- **6-Month Research Internship**, College of Medicine, Chungnam National University
+- **M.S. in Biomedical Engineering**, Chungnam National University (March 2027)
 
 ### Funded Research Projects
 - **National Research Foundation of Korea (NRF)** — Researcher, *Development and Validation of a Knowledge Graph-Based Foundation Model for Biosignal Analysis with Reduced Hallucinations and Bias* (RS-2024-00353051)
@@ -28,7 +31,7 @@ Interested in developing clinically applicable AI systems that support clinical 
 
 - B.S. in Medical IT Engineering, **Konyang University** — Expected Feb 2027
 - GPA: **4.38 / 4.50** | Major GPA: **4.50 / 4.50**
-- **1st in class**
+  
 - Research interests:
   - Medical Artificial Intelligence
   - Diffusion Language Model
@@ -49,8 +52,8 @@ Interested in developing clinically applicable AI systems that support clinical 
 - **First Author** — *Efficient Brain Tumor MRI Manipulation Detection Using a ShuffleNetV2-Based 3-Block Combination Model*
   - Journal of the Korea Multimedia Society (KCI)
 
-- **Ongoing Research, First Author** — *Brain Tumor MRI Contrast Synthesis from Pre-Contrast Images Using a U-Net-based pix2pix Model*
-  - KCI journal paper in preparation
+- **First Author** — *Brain Tumor MRI Contrast Synthesis from Pre-Contrast Images Using a U-Net-based pix2pix Model*
+  - Journal of the Korea Multimedia Society (KCI)
 
 ---
 
@@ -149,6 +152,10 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 - Microsoft Azure AI Fundamentals (AI-900)
 - Big Data Analysis Certificate Level 1
 
+## English
+
+**TOEIC 800**
+
 ---
 
 ## Training & Activities
@@ -170,11 +177,6 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 
 ---
 
-## English
-
-**TOEIC 800**
-
----
 
 ## Contact
 
