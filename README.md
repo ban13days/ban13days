@@ -33,7 +33,7 @@ Chungnam National University College of Medicine, Biomedical Engineering Researc
   - Medical Artificial Intelligence
   - Diffusion Language Model
   - Myocardial Infarction Prediction
-  - 
+    
 Interested in developing clinically applicable AI systems that support clinical decision-making and provide reliable insights for patient care.
 
 ---
@@ -59,31 +59,29 @@ Interested in developing clinically applicable AI systems that support clinical 
 ## Projects
 
 ### Brain Tumor MRI Contrast Synthesis
-U-Net + pix2pix-based two-stage framework for generating contrast-enhanced MRI from pre-contrast MRI.
-
-**Focus:** Tumor segmentation · Image-to-image translation · Medical image generation
+- U-Net + pix2pix-based two-stage framework for generating contrast-enhanced MRI from pre-contrast MRI.
+- **Focus:** Tumor segmentation · Image-to-image translation · Medical image generation
 
 <br>
 
 ### Medical Image Manipulation Detection
-Deep learning-based detection of manipulated medical images, including brain MRI and endoscopy images.
-
-**Models:** ShuffleNetV2 · StyleGAN2-ADA · Top-k MIL · Deep Learning
+- Deep learning-based detection of manipulated medical images, including brain MRI and endoscopy images.
+- **Models:** ShuffleNetV2 · StyleGAN2-ADA · Top-k MIL · Deep Learning
 
 <br>
 
 ### Urine Bag Monitoring & Alert System
-Load-cell-based urine bag monitoring system with a C# monitoring interface.
+- Load-cell-based urine bag monitoring system with a C# monitoring interface.
 
 <br>
 
 ### Personalized SOS Emergency Alert Application
-Android application supporting patient-specific emergency calling protocols.
+- Android application supporting patient-specific emergency calling protocols.
 
 <br>
 
 ### Medication Reminder Application
-Prescription-based medication scheduling, alarm generation, and drug interaction warnings.
+- Prescription-based medication scheduling, alarm generation, and drug interaction warnings.
 
 ---
 
@@ -153,7 +151,7 @@ Prescription-based medication scheduling, alarm generation, and drug interaction
 
 ## English
 
-**TOEIC 800**
+- **TOEIC 800**
 
 ---
 
