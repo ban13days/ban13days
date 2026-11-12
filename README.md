@@ -3,11 +3,18 @@
 
 # Siwoo Choi
 
+M.S. Student in Biomedical Engineering (March 2027)
 Chungnam National University College of Medicine, Biomedical Engineering Research Institute
 
-Medical IT Engineering student at Konyang University, Aiming to develop AI models that can be applied in real-world clinical settings to support clinical decision-making and provide probabilistic insights for patient treatment planning.
+Completed a six-month research internship at Chungnam National University College of Medicine. Previously studied Medical IT Engineering at Konyang University and will begin a master's program in Biomedical Engineering at Chungnam National University in March 2027.
 
-Currently working on the following research projects:
+Interested in developing clinically applicable AI systems that support clinical decision-making and provide reliable insights for patient care.
+
+### Funded Research Projects
+- **National Research Foundation of Korea (NRF)** — Researcher, *Development and Validation of a Knowledge Graph-Based Foundation Model for Biosignal Analysis with Reduced Hallucinations and Bias* (RS-2024-00353051)
+- **Korean ARPA-H Project (Ministry of Health and Welfare)** — Participating Researcher, *Establishment and Demonstration of an Agentic AI Orchestration Ecosystem for Regional, Essential, and Public Healthcare*
+
+### Currently working on the following research projects:
 
 - Clinically Context-Aware Diffusion Language Models : Exploring diffusion-based language modeling approaches that incorporate clinical context and medical knowledge to improve contextual consistency.
 
