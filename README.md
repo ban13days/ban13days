@@ -6,23 +6,19 @@
 M.S. Student in Biomedical Engineering (March 2027)
 Chungnam National University College of Medicine, Biomedical Engineering Research Institute
 
-Interested in developing clinically applicable AI systems that support clinical decision-making and provide reliable insights for patient care.
-
 ### Education & Research Experience
 - **B.S. in Medical IT Engineering**, Konyang University
 - **6-Month Research Internship**, College of Medicine, Chungnam National University
-- **M.S. in Biomedical Engineering**, Chungnam National University (March 2027)
+- **M.S. in Biomedical Engineering**, College of Medicine, Chungnam National University (March 2027)
 
 ### Funded Research Projects
-- **National Research Foundation of Korea (NRF)** — Researcher, *Development and Validation of a Knowledge Graph-Based Foundation Model for Biosignal Analysis with Reduced Hallucinations and Bias* (RS-2024-00353051)
+- **National Research Foundation of Korea (NRF)** — Participating Researcher, *Development and Validation of a Knowledge Graph-Based Foundation Model for Biosignal Analysis with Reduced Hallucinations and Bias* (RS-2024-00353051)
 - **Korean ARPA-H Project (Ministry of Health and Welfare)** — Participating Researcher, *Establishment and Demonstration of an Agentic AI Orchestration Ecosystem for Regional, Essential, and Public Healthcare*
 
 ### Currently working on the following research projects:
 
 - Clinically Context-Aware Diffusion Language Models : Exploring diffusion-based language modeling approaches that incorporate clinical context and medical knowledge to improve contextual consistency.
-
 - sEMG-Based Silent Speech Interface : Developing a speech generation system using surface electromyography (sEMG) signals to support communication for patients with impaired speech.
-
 - Hemodynamic Parameter Prediction in ECMO Patients : Investigating AI-based prediction of hemodynamic parameters to support monitoring and clinical decision-making in patients receiving extracorporeal membrane oxygenation (ECMO).
 
 ---
@@ -33,9 +29,12 @@ Interested in developing clinically applicable AI systems that support clinical 
 - GPA: **4.38 / 4.50** | Major GPA: **4.50 / 4.50**
   
 - Research interests:
+  - CDSS
   - Medical Artificial Intelligence
   - Diffusion Language Model
   - Myocardial Infarction Prediction
+  - 
+Interested in developing clinically applicable AI systems that support clinical decision-making and provide reliable insights for patient care.
 
 ---
 
